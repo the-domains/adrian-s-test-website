@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Adrian's Test Website]]></title>
         <description><![CDATA[Adrian's Test Website]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/adrian-s-test-website/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Dec 2015 00:03:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 14 Dec 2015 00:03:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/adrian-s-test-website/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
+            <link>https://thegrid.ai/adrian-s-test-website/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">4886414c-51af-4bda-93a2-30fb833c57db</guid>
+            <pubDate>Mon, 14 Dec 2015 00:03:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Test Post]]></title>
             <description><![CDATA[<article><h1>Test Post</h1><p>This is a test post. I wonder what happens next?</p></article>]]></description>
-            <link>undefinedtest-post/index.html</link>
+            <link>https://thegrid.ai/adrian-s-test-website/test-post/index.html</link>
             <guid isPermaLink="false">81961209-5585-4a2f-b40b-4218a620bcca</guid>
             <pubDate>Mon, 14 Dec 2015 00:02:53 GMT</pubDate>
         </item>
