@@ -1,0 +1,28 @@
+name: "Adrian's Test Website"
+favicon: null
+layout_spectrum: 0.84953
+typography_spectrum: 0.44891667482443154
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.25
+  lightness: 0.320311741437763
+  saturation: 0.8203031297307462
+  rhythmicContrast: 0.3807868058793247
+purpose: []
